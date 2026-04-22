@@ -2,7 +2,7 @@ import requests
 from datetime import datetime, timedelta
 import time
 
-API_KEY = "cmb363Sgtx2Ok1zGMUn6zKI9QkFmm2rrPzafouBf"
+API_KEY = "SUA CHAVE API"
 URL = "https://api.nasa.gov/neo/rest/v1/feed"
 
 # últimos 30 dias
